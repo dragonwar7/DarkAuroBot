@@ -219,3 +219,6 @@ client.on('message', message => {
 });
 
 client.login(process.env.BOT_TOKEN);
+
+node --version
+v10.3.0
