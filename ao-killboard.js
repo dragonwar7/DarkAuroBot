@@ -219,3 +219,4 @@ client.on('message', message => {
 });
 
 client.login(process.env.BOT_TOKEN);
+"engines" : { "node" : ">=4.5.0 <5 || >=5.10.0 <6" }
